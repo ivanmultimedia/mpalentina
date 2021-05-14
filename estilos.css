@@ -1,0 +1,88 @@
+body {
+  background-color: #f1ca89;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.principal {
+  width: 80%;
+  margin: 0 auto;
+  background-color: red;
+  padding: 2%;
+}
+
+.filabotones {
+  background-color: green;
+}
+
+.filamision {
+  background-color: aquamarine;
+}
+
+.filaprecios {
+  background-color: yellow;
+  width: 80%;
+  height: 225px;
+  margin: 0 auto;
+}
+
+.mpalentina {
+  float: right;
+}
+
+.logo {
+  width: 150px;
+  vertical-align: middle;
+}
+
+.inlogo {
+  display: inline-block;
+  width: 26%;
+}
+
+.intitulo {
+  display: inline-block;
+  width: 70%;
+}
+
+.mpalentina {
+  width: 300px;
+}
+
+.ponentes{
+  background-color:green;
+  height:300px;
+  width:80%;
+  margin:0 auto;
+}
+.enero, .febrero {
+  float:left;
+  margin-right:165px;
+  background-color: yellow;
+}
+
+.marzo{
+  float:left;
+  background-color: yellow;
+}
+
+.imgponente{
+  width:100px;
+}
+
+.pie{
+  background-color:black;
+  color:white;
+}
+
+.fab{
+  color:white;
+}
+.fab:hover{
+  color:green;
+}
